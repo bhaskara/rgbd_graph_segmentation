@@ -1,0 +1,1 @@
+Extends Felzenszwalb+Huttenlocher's graph-based image segmentation algorithm (http://www.cs.brown.edu/~pff/segment/) to use depth data, in the form of a depth image registered with the rgb one, as can be obtained from the Microsoft Kinect and similar sensors.
